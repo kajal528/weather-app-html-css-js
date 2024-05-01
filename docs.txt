@@ -1,4 +1,0 @@
-https://www.w3.org/Style/Examples/011/firstcss.en.html
-
-
-OWASP cheatsheets: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
